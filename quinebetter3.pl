@@ -1,0 +1,1 @@
+sub r { return $_[0]."\x27$_[0]\x27)" } print r('sub r { return $_[0]."\x27$_[0]\x27)" } print r(')
